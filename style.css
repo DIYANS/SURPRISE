@@ -1,0 +1,84 @@
+body{
+  background-color: black;
+}
+
+
+h1
+{
+
+color: purple;
+font-size: 60px;
+text-align: center;
+font-style: italic;
+}
+.center{
+  display: block;
+  margin-left: auto;
+margin-right: auto;
+height: 320px;
+width: 250px
+}
+
+H2{
+color: reD;
+font-size: 40PX;
+  text-align: center;
+
+}
+
+p{
+
+color: green;
+font-size: 25px;
+font-style: italic;
+}
+
+
+h3
+{
+color: purple;
+font-size: 35px;
+font-style: oblique;
+
+}
+.airticket{
+text-align: center;
+color: yellow;
+}
+
+
+.center{
+  display: block;
+  margin-left: auto;
+margin-right: auto;
+height: 320px;
+width: 250px
+}
+
+.shayari{
+text-align: center;
+color: pink;
+}
+.sheru{
+text-align: right;
+color: red;
+}
+
+.subah{
+
+  text-align: center;
+  color: yellow;
+}
+
+.last{
+text-align: left;
+  color: purple;
+}
+
+.cute{
+  display: block;
+  margin-left: auto;
+margin-right: auto;
+height: 420px;
+width: 250px
+}
